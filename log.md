@@ -2,15 +2,29 @@
 
 ## Day 0: November 5, 2021 (Friday)
 
-**Today's Progress:** Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress:** Determined order of courses/book due to priority of info needed
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+Determined Subject Learning Priority:
+
+1. Object Oriented PHP
+2. WordPress theme/plug-in development
+3. CSS animation
+4. React.js
+5. Node.js
+6. MERN applications
+
+**Thoughts:** I am prioritizing PHP/WordPress due to my freelance project to create a new WordPress theme. I am excited to document my process and start building new projects to showcase what I have learned over the last 4 years in web development
 
 **Link(s) To Work:** 
-1. 
+1. N/A
 
 **Articles/Links that made me smarter today**
-1. 
+1. [Eric W. Bailey - Organize Your CSS Declarations Alphabetically](https://ericwbailey.design/writing/organize-your-css-declarations-alphabetically/)
+    - **TLDR** Organize your CSS properties (like `font-size`, `height`, `padding`, etc) alphabetically since right now there is no standard of organization. This will help us focus on other aspects of CSS.
+2. [Hocus Focus](https://focus.hteumeuleu.com/)
+    - **SUMMARY** An 8 level game that uses the `shift`, `shift + tab`, and `enter` key to get from start to finish. Beware of the ghost who will mess with focus ability. It's always good to be aware what is focusable within your website.
+3. [Chris Ferdinandi - When should you use object-oriented programing (OOP)?](https://gomakethings.com/when-should-you-use-object-oriented-programing-oop/)
+    - **TLDR** Whenever you’re going to being creating more than one or two of an item in JavaScript that has some shared properties and some unique ones.
 
 ## Day 1: November 6, 2021 (Saturday)
 
